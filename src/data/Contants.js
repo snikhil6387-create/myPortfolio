@@ -2,15 +2,60 @@ export const Bio = {
     name: "Nikhil Srivastava",
     roles: [
       "Full Stack Developer",
+      "Freelance Developer",
       "Backend Developer",
       "API & Database Developer",
     ],
+    tagline: "Freelance & Full Stack Developer",
     description:
-      "A passionate Full Stack Developer with hands-on experience in building scalable and secure web applications. I enjoy solving real-world problems using clean, efficient, and optimized backend logic. With a strong learning mindset and dedication to quality, I aim to contribute to impactful projects and achieve excellence in every challenge.",
+      "I'm a results-driven Full Stack Developer with 3 years of professional experience in designing, developing, and maintaining scalable, responsive, and high-performance web applications. I specialize in PHP, Laravel, MySQL, JavaScript, HTML, CSS, and modern frontend technologies. Experienced in building RESTful APIs, developing dynamic user interfaces, database optimization, and integrating third-party services. Passionate about writing clean, maintainable code, solving complex technical challenges, and delivering end-to-end digital solutions that create real business value.",
     github: "https://github.com/snikhil6387-create",
     linkedin: "https://linkedin.com/in/nikhil-srivastava-182265234",
-    
+    email: "snikhil6387@gmail.com",
+    resumeFile: "Nikhil_Srivastava_CV.pdf",
+    whatsapp: "6387854907",
+    whatsappLink: "https://wa.me/916387854907",
   };
+
+  export const freelanceServices = [
+    {
+      icon: "web",
+      title: "Custom Web Applications",
+      desc: "End-to-end Laravel / PHP products — dashboards, portals, and business workflows tailored to your requirements.",
+    },
+    {
+      icon: "api",
+      title: "REST APIs & Integrations",
+      desc: "Secure APIs, payment gateways, SMS/email, auth, and third-party service wiring with clean documentation.",
+    },
+    {
+      icon: "database",
+      title: "Database & Performance",
+      desc: "Schema design, indexing, query tuning, and migrations for apps that stay fast under real load.",
+    },
+    {
+      icon: "devices",
+      title: "Frontend & Responsive UI",
+      desc: "Modern, mobile-friendly interfaces with HTML, CSS, JavaScript, Tailwind, and component-based UIs.",
+    },
+    {
+      icon: "build",
+      title: "Bug Fixes & Maintenance",
+      desc: "Rescue stuck projects, patch production issues, refactor legacy code, and keep releases stable.",
+    },
+    {
+      icon: "rocket_launch",
+      title: "MVP & Startup Builds",
+      desc: "Ship an MVP quickly with scalable foundations so you can validate ideas without rebuilding later.",
+    },
+  ];
+
+  export const freelanceEngagement = [
+    "Project-based (fixed scope)",
+    "Hourly consulting",
+    "Milestone delivery",
+    "Remote · IST-friendly",
+  ];
   
   export const skills = [
     {
@@ -132,7 +177,7 @@ export const Bio = {
       school: "Rameshwaram Institute of Technology and Management (RITM), Lucknow",
       date: "Sep 2020 - Jul 2024",
       grade: "72%",
-      desc: "I have completed my Bachelor's degree in Computer Science and Engineering with a 72% score. I have gained knowledge in Web Development, PHP, Laravel, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I have hands-on experience working on real-time projects along with a talented team, focusing on building scalable and efficient applications.",
+      desc: "I have completed my Bachelor's degree in Computer Science and Engineering. I have gained knowledge in Web Development, PHP, Laravel, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I have hands-on experience working on real-time projects along with a talented team, focusing on building scalable and efficient applications.",
       degree: "Bachelor of Technology (B.Tech) - Computer Science and Engineering",
     },
 
